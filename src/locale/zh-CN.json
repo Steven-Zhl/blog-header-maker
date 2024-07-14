@@ -1,0 +1,25 @@
+{
+  "About": "关于",
+  "About_1": "Blog header maker是一个简单的在线工具，用于为我的个人博客构建头图。",
+  "About_2": "它使用Vue 3和Vuetify构建，支持多种语言，包括中文和英文。",
+  "About_3": "这是我的第一个Vue练手项目，希望通过这个项目学习Vue基础语法和设计思路。",
+  "About_4": "如果你有任何问题或建议，请在GitHub上提出。",
+  "All your edits will be instantly reflected here": "您的所有修改都将在此处实时预览",
+  "Auto": "自动",
+  "Background image": "背景图片",
+  "Change language": "切换语言",
+  "Close": "关闭",
+  "Export": "导出",
+  "Export format": "导出格式",
+  "General": "通用",
+  "GitHub home page": "GitHub首页",
+  "Height": "高度",
+  "Icon": "图标",
+  "Preview": "预览",
+  "Reset": "重置",
+  "Steven-Zhl": "Steven-Zhl",
+  "Title": "标题",
+  "Upload new  background image": "上传新背景图",
+  "Width": "宽度"
+}
+
