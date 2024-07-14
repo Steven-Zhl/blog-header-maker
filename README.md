@@ -1,29 +1,35 @@
 # blog-header-maker
 
-> It's a simple Vue project that allows me to create a header for my blog.
+> 一个用于构建我的个人博客头图的简单demo，使用Vue 3和Vuetify制作。
 
-## Recommended IDE Setup
+![demo](/README/demo.png)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## To-Do List
 
-## Customize configuration
+* [ ] 导出图片
+  * [ ] 自定义图片格式
+* [ ] 自定义左侧图标(Icon)
+* [ ] 自定义子标题
+* [ ] 移动端界面优化
+* [ ] 将其打包为纯前端项目，发布到GitHub Pages上
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Change Logs
 
-## Project Setup
+* 2024-07-14: 完成基本功能（但仍不支持导出，只能简单演示一下）
 
-```sh
-npm install
-```
+## How to use
 
-### Compile and Hot-Reload for Development
+> 推荐IDE配置是[VSCode](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar)(Volar)，或者直接选择[WebStorm](https://www.jetbrains.com/webstorm/)。
 
-```sh
-npm run dev
-```
+1. Git Clone
+2. 安装依赖
 
-### Compile and Minify for Production
+    ```sh
+    npm install
+    ```
 
-```sh
-npm run build
-```
+3. 启动Dev服务器
+
+    ```sh
+    npm run dev
+    ```
